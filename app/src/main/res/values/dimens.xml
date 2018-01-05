@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tag_corner_radius">4dp</dimen>
+    <dimen name="_50dp">50dp</dimen>
+    <dimen name="_20dp_px">20dp</dimen>
+    <!-- 城市搜索 -->
+    <dimen name="city_full_banner_margintop">-115dp</dimen>
+    <dimen name="city_search_height_top_big">300dp</dimen>
+    <dimen name="city_search_pic_height_top_big">201dp</dimen>
+    <dimen name="city_search_pic_margin_bottom">-15dp</dimen>
+    <dimen name="city_search_margin_top">133dp</dimen>
+</resources>
