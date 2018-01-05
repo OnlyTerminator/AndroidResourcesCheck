@@ -1,0 +1,2 @@
+# AndroidResourcesCheck
+Android项目多Module之间资源文件冲突检查
